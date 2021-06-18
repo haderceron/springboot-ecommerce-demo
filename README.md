@@ -1,1 +1,1 @@
-# Spring Boot Web App Example – Thymeleaf
+# Spring Boot Web App Example - Java
