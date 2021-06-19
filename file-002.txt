@@ -2,3 +2,4 @@ file 002
 TEST 002 comment added
 TEST 002 comment 2 added
 TEST 004 comment 1 added
+TEST 006 comment 1
